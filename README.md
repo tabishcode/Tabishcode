@@ -20,7 +20,7 @@ I enjoy building real-world, production-ready software with clean architecture, 
 
 ---
 
-### ⚡ Fun Fact (This reflects how I work)
+### ⚡ Fun Fact
 
 > I rely heavily on **perseverance and resilience** when solving problems.  
 > I break complex problems into small, manageable parts, solve them step by step, and stay consistent even when progress feels slow.  
